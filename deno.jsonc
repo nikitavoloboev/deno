@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --watch -q -A --unstable run.ts"
+  },
+  "fmt": {
+    "options": {
+      "semiColons": false
+    }
+  }
+}

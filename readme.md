@@ -4,7 +4,7 @@ I mainly use [Bun](https://bun.sh/) for running code now and share my TS librari
 
 [Deno](https://deno.land/) is interesting though and am exploring using it more. Perhaps I will automate creating of Deno libraries to Deno.land in future.
 
-For now I expose only some things on [Deno.land](https://deno.land/x/nikiv/lib).
+[Exported libraries](https://deno.land/x/nikiv/lib) to use from Deno.land are found in [lib](lib).
 
 ## Develop
 

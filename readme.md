@@ -24,7 +24,7 @@ Everything is driven using [Deno tasks](https://deno.land/manual/tools/task_runn
 deno task dev
 ```
 
-Make edits to [src/main.ts](src/main.ts) file.
+Runs: `deno run --watch -q -A --unstable src/main.ts`
 
 ## Publish libraries
 

@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "dev": "deno run --watch -q -A --unstable run.ts"
+    "dev": "deno run --watch -q -A --unstable src/main.ts"
   },
   "fmt": {
     "options": {

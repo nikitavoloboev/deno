@@ -2,11 +2,11 @@
 
 > Deno libraries + testing code
 
-This repo is exploring use of [Deno](https://deno.land/).
+This repo is exploring use of [Deno](https://deno.com/).
 
 Main repo with TS code I mostly run with [Bun](https://bun.sh/) is [here](https://github.com/nikitavoloboev/ts).
 
-[Exported libraries](https://deno.land/x/nikiv/lib) to use from Deno.land are found in [lib](lib).
+[Exported libraries](https://deno.land/x/nikiv/lib) to use from [Deno.land](https://deno.land) are found in [lib](lib).
 
 ## File structure
 

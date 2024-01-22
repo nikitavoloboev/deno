@@ -1,6 +1,6 @@
 # Deno
 
-> Deno libraries + testing code
+> Deno libraries and other code
 
 This repo is exploring use of [Deno](https://deno.com/).
 

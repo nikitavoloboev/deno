@@ -1,0 +1,2 @@
+- check deno standard library
+- check deno tooling
